@@ -1,0 +1,9 @@
+# This showcase publishes only the explicitly listed documentation files.
+/*
+!/.gitignore
+!/README.md
+!/README.en.md
+!/docs/
+/docs/*
+!/docs/research-route.md
+!/docs/technical-overview.md
